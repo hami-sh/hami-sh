@@ -1,8 +1,8 @@
 # 🌏✨ m-ish ✨🌏
 
-***🔎  Google DSC Lead 2020 @ The University of Queensland***
-
 ***🎨  Canva Intern 2020 @ Sydney, Australia***
+
+***🔎  Google DSC Lead 2020 @ The University of Queensland***
 
 ***💀  Lead programmer for The Kran-o-tron Group***
 
