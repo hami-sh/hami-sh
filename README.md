@@ -1,5 +1,8 @@
 # 🐸 Hamish Bultitude
 
+<img width="844" alt="image" src="https://github.com/user-attachments/assets/7c78598f-a963-4d45-9774-e830985bd23d" />
+
+
 Welcome to my corner of the Internet! Here I host all my projects, lectures and presentations that I have done. 
 
 🧙‍♂️ Working at Canva as a Software Engineer
